@@ -1,0 +1,6 @@
+
+javac P1.java
+javac P2.java
+
+java P1
+java P2
